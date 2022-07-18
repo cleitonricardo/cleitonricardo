@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/cleitonricardo">
-  <img height="180em" src="https://camo.githubusercontent.com/b9e47c32412a6b50505f77aace7521784d063c91057e66b814c4f03cba8ca815/68747470733a2f2f7374617475732d68617a656c2e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d64616c6361737461676e6564266c61796f75743d636f6d70616374267468656d653d6461726b266c616e67735f636f756e743d3130266578636c7564655f7265706f3d737461747573"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleitonricardo&layout=compact&theme=dark"/>
 </div>
   
  <div align="center" style="margin: 0 auto"><br>
