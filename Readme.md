@@ -5,9 +5,9 @@
 
 <div align="center">
   <a href="https://github.com/cleitonricardo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleitonricardo&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleitonricardo&show_icons=true&theme=dark" style="max-width:100%;>
   <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleitonricardo&langs_count=8&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleitonricardo&langs_count=8&layout=compact&theme=dark">
   
   
 </div>
