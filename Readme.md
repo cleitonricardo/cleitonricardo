@@ -1,5 +1,5 @@
 ### 🤵 Hi, I'm Cleiton Ricardo, electrical engineer with a passion for programming. <br/>
-### 📚 I'm currently studying to be a full stack web developer in AngularJS and C# (.netCore).
+### 📚 I'm currently studying to be a full stack web developer in Angular2 and C# (.netCore).
 
 <br/>
 
