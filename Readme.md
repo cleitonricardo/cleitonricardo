@@ -1,5 +1,5 @@
 ### 🤵 Hi, I'm Cleiton Ricardo, electrical engineer with a passion for programming. <br/>
-### 📚 Eu sou Desenvolvedor web full stack em Angular2 e C#(.netCore).
+### 📚 I'm Developer Full-Stack em Angular2 e C#(.netCore).
 
 <br/>
 
@@ -36,5 +36,5 @@
   <p align="center">
   <p align="center">
   <a href = "cleitonricardo12@gmail.com"><img src="https://img.shields.io/badge/-Email-ff0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cleiton-spagnol-027369127/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/thiscleiton/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
